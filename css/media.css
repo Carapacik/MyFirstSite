@@ -1,0 +1,219 @@
+@media screen and (max-width: 1300px)
+{
+	 .like_games
+	{
+		width: 100%;
+	}
+	
+	.game
+	{
+		margin-left: 0;
+		width: 23%;
+		padding-left: 1%;
+		padding-right: 1%;
+	}
+}
+
+@media screen and (max-width: 1024px)
+{
+	
+	.like_games
+	{
+		width: 100%;
+	}
+	
+	.text_main
+	{
+		width: 95%;
+	}
+	
+	.game
+	{
+		width: 46%;
+		padding-left: 2%;
+		padding-right: 2%;
+	}
+	
+	.person
+  {
+	  width: 750px;
+	}
+	
+	.main
+	{
+		width: 750px;
+	}
+	
+	.photo
+	{
+		width: 40%;
+	  margin-left: 1%;
+	  margin-right: 2%;
+	}
+	
+	.quote
+	{
+		width: 50%;
+		margin: 0 2%;
+	}
+	
+  header
+  {
+    width: 750px;
+	  height: 50px;
+  }
+	
+	.text 
+	{
+		margin-left: 20px;
+		margin-right: 0px;
+		float: left;
+		width: 90%;
+		margin-bottom: 0px;
+	}
+	
+	.sidebar
+	{
+		width: 48%;
+		margin-left: 2%;
+		margin-bottom: 25px;
+	}
+}
+
+@media screen and (max-width: 768px)
+{
+	.person
+  {
+		padding-top: 30px;
+	  width: 80%;
+	}
+	
+	.photo
+	{
+		float: none;
+		width: 100%;
+		margin-left: 0;
+	  margin-right: 0;
+	}
+	
+	.quote
+	{
+		width: 95%;
+		margin: auto;
+		float: none;
+		display: block;
+	}
+	
+	.like_games
+	{
+		width: 100%;
+	}
+	
+	.game
+	{
+		float: none;
+		width: 90%;
+		margin: 0 5%;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	hr
+	{
+		display: none;
+	}
+	
+	.write_me
+	{
+		max-width: 540px;
+		width: 100%;
+	}
+	
+	.write_me span
+	{
+		padding: 0;
+	}
+	
+	.game_img
+	{
+		width: 100%;
+	}
+	
+	header
+  {
+    width: 550px;
+	  height: 50px;
+  }
+	
+	.text 
+	{
+		margin: 0 10px 0 10px;
+		float: left;
+		width: 100%;
+	}
+	
+	.main
+	{
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 550px)
+{
+		.write_me
+	{
+		width: 90%;
+	}
+	
+	.sidebar
+	{
+		width: 84%;
+		margin: 0 8% 25px 8%;
+	}
+	
+	.send_form
+	{
+		max-width: 540px;
+		width: 90%;
+	}
+	
+	.your_name
+	{
+		width: 100%;
+	}
+	
+	.country
+	{
+		width: 100%;
+	}
+	
+	header
+  {
+    width: 100%;
+	  height: auto;
+  }
+	
+	ul.menu_list li
+	{
+		display: block;
+		float: none;
+	}
+	
+	.menu
+	{
+		padding: 0;
+	}
+	
+	.menu_link
+	{
+		display: block;
+		height: 38px;
+    padding: 18px 12px 18px 12px;
+		text-align: center;
+	}
+	
+	.icons
+	{
+		display: none;
+	}
+}
